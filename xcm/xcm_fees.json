@@ -240,7 +240,7 @@
         "symbol": "ZLK"
       },
       {
-        "feeInPlanks": "8746017993",
+        "feeInPlanks": "653550000",
         "symbol": "KSM"
       },
       {
@@ -298,12 +298,16 @@
         "symbol": "aSEED"
       },
       {
-        "feeInPlanks": "140400000000000",
+        "feeInPlanks": "34538786100000",
         "symbol": "MOVR"
       },
       {
         "symbol": "USDt",
         "feeInPlanks": "1050"
+      },
+      {
+        "symbol": "KAR",
+        "feeInPlanks": "954490670"
       }
     ],
     "weight": "500000000000"
