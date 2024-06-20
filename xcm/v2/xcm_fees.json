@@ -10,5 +10,11 @@
     "destChain": "Polkadot",
     "destXcmFee": [],
     "weight": "500000000000"
+  },
+  {
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
+    "destChain": "Bifrost Kusama",
+    "destXcmFee": [],
+    "weight": "500000000000"
   }
 ]
