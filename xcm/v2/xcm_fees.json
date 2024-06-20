@@ -145,6 +145,14 @@
       {
         "feeInPlanks": "1050",
         "symbol": "USDt"
+      },
+      {
+        "symbol": "MOVR",
+        "feeInPlanks": "34538786100000"
+      },
+      {
+        "symbol": "KAR",
+        "feeInPlanks": "954490670"
       }
     ],
     "weight": "500000000000"
