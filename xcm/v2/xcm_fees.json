@@ -35,5 +35,32 @@
       }
     ],
     "weight": "500000000000"
+  },
+  {
+    "chainId": "d611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa",
+    "destChain": "Mangata",
+    "destXcmFee": [
+      {
+        "feeInPlanks": "48384000000000000",
+        "symbol": "ZLK"
+      },
+      {
+        "feeInPlanks": "653550000",
+        "symbol": "KSM"
+      },
+      {
+        "feeInPlanks": "1612800000000000",
+        "symbol": "MOVR"
+      },
+      {
+        "feeInPlanks": "322560000",
+        "symbol": "TUR"
+      },
+      {
+        "feeInPlanks": "10080",
+        "symbol": "USDt"
+      }
+    ],
+    "weight": "500000000000"
   }
 ]
