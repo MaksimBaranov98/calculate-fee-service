@@ -101,7 +101,7 @@
         "symbol": "ZLK"
       },
       {
-        "feeInPlanks": "8746017993",
+        "feeInPlanks": "653550000",
         "symbol": "KSM"
       },
       {
@@ -111,6 +111,10 @@
       {
         "feeInPlanks": "322560000",
         "symbol": "TUR"
+      },
+      {
+        "symbol": "USDt",
+        "feeInPlanks": "10080"
       }
     ],
     "weight": "500000000000"
